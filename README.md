@@ -29,36 +29,34 @@ My primary focus is on **Natural Language Processing (NLP)** and **Machine Learn
 - 🌱 **Goal**: To become a data scientist who designs user-centric services and bridges the gap between data analysis and business strategy.
 
 ---
-
 ### 🛠️ Skills & Technologies
 
 #### Languages
 <p>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cache_bust=1"></a>
 </p>
 
 #### Backend & Databases
 <p>
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&cache_bust=1"></a>
 </p>
 
 #### Data Science & Machine Learning
 <p>
-  <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-  <a href="#"><img alt="Weka" src="https://img.shields.io/badge/Weka-363696?style=for-the-badge&logo=weka&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikitlearn&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="Weka" src="https://img.shields.io/badge/Weka-363696?style=for-the-badge&logo=weka&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&cache_bust=1"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&cache_bust=1"></a>
 </p>
 - **Algorithms**: SVM, Decision Trees (J48), Naive Bayes, RandomForest, Linear Regression
 - **Analysis**: Cross-validation, Confusion Matrix, RMSE/MAE evaluation
-
 ---
 
 ### 🔬 Graduation Research
