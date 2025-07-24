@@ -13,8 +13,9 @@
     alt="Profile Views"
   />
 </a>
-Most of my commits are in private repos (research projects), so GitHub’s public stats don’t reflect my real activity.
+
 <br>
+Most of my commits are in private repos (research projects), so GitHub’s public stats don’t reflect my real activity.
 <br>
 
 ### 👋 About Me
