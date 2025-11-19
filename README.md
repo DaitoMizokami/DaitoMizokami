@@ -29,7 +29,7 @@ I am developing a system to structurally extract aspects (e.g., "service," "loca
 
 - **Objective**: To bridge the gap between customer feedback and business strategy by visualizing detailed sentiment trends.
 - **Dataset**: Utilizing a large-scale dataset of **Rakuten Travel** reviews.
-- **Approach**: Currently exploring dictionary-based extraction and aiming to implement Machine Learning/Deep Learning models.
+- **Approach**: Currently implementing Machine Learning and Deep Learning models for aspect and sentiment extraction.
 
 ---
 
