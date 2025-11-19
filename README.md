@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-I am an undergraduate student at **Yuan Ze University (元智大學)** in Taiwan, majoring in Information Management. I am currently a researcher at the **YZU Natural Language Processing Laboratory**.
+I am an undergraduate student at **Yuan Ze University (元智大學)** in Taiwan, majoring in Information Management.
 
 My focus is on **Natural Language Processing (NLP)**, aiming to transform unstructured text data into actionable business insights.
 
