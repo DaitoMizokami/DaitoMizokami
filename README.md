@@ -1,98 +1,57 @@
-<a href="https://github.com/DaitoMizokami">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=DaitoMizokami&count_private=true&show_icons=true&theme=dark&bg_color=00000000" 
-    alt="Daito Mizokami's GitHub stats"
-  />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaitoMizokami&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" alt="Daito Mizokami's GitHub stats" />
+  <br>
+  <p>
+    <i>Most of my commits are in private repositories due to ongoing research projects.<br>
+    Public stats may not reflect my actual activity level.</i>
+  </p>
+</div>
 
-<a href="https://github.com/DaitoMizokami">
-  <img 
-    align="center"
-    src="https://komarev.com/ghpvc/?username=DaitoMizokami&color=brightgreen" 
-    alt="Profile Views"
-  />
-</a>
-
-<br>
-Most of my commits are in private repos (research projects), so GitHub’s public stats don’t reflect my real activity.
-<br>
+---
 
 ### 👋 About Me
 
-I am a student at **Yuan Ze University (元智大學)** in Taiwan, majoring in Information Management and conducting research at the **YZU Natural Language Processing Laboratory**.
+I am an undergraduate student at **Yuan Ze University (元智大學)** in Taiwan, majoring in Information Management. I am currently a researcher at the **YZU Natural Language Processing Laboratory**.
 
-My primary focus is on **Natural Language Processing (NLP)** and **Machine Learning**, with a passion for transforming unstructured data into actionable insights for business decision-making.
+My focus is on **Natural Language Processing (NLP)**, aiming to transform unstructured text data into actionable business insights.
 
-- 🎓 **Education**: B.S. in Information Management, Yuan Ze University
-- 🔬 **Research**: Member of the YZU NLP Lab, working under Prof. Liang-Chih Yu
-- 🗣️ **Languages**: Japanese (Native), Chinese (Mandarin, **HSK Level 6**)
-- 🌱 **Goal**: To become a data scientist who designs user-centric services and bridges the gap between data analysis and business strategy.
-
----
-### 🛠️ Skills & Technologies
-
-#### Languages
-<p>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cache_bust=1"></a>
-</p>
-
-#### Backend & Databases
-<p>
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&cache_bust=1"></a>
-</p>
-
-#### Data Science & Machine Learning
-<p>
-  <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikitlearn&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="Weka" src="https://img.shields.io/badge/Weka-363696?style=for-the-badge&logo=weka&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&cache_bust=1"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&cache_bust=1"></a>
-</p>
-- **Algorithms**: SVM, Decision Trees (J48), Naive Bayes, RandomForest, Linear Regression
-- **Analysis**: Cross-validation, Confusion Matrix, RMSE/MAE evaluation
----
-
-### 🔬 Graduation Research
-
-**Theme: Aspect-Based Sentiment Analysis (ABSA) of Japanese Hotel Reviews**
-- **Dataset**: Hotel reviews from Rakuten Travel across Japan.
-- **Objective**: To develop a system that structurally extracts aspects (e.g., "service," "location") and their corresponding sentiment (positive/negative) from review texts.
-- **Methodology**: Currently utilizing dictionary-based and rule-based approaches for aspect and sentiment extraction.
+- 🎓 **Education**: B.S. in Information Management, Yuan Ze University (Expected 2026)
+- 🔬 **Research Interest**: Aspect-Based Sentiment Analysis (ABSA), Customer Review Analysis
+- 🗣️ **Languages**: Japanese (Native), Chinese (Mandarin, HSK Level 6), English
 
 ---
 
-### 💻 Personal Projects
+### 🔬 Current Research
 
-- **ToDo Web App**
-  - **Tech**: C# (ASP.NET Core MVC), SQL Server
-  - **Features**: Full CRUD (Create, Read, Update, Delete) functionality for managing tasks.
-- **Simple Text Editor**
-  - **Tech**: C# (Windows Forms)
-  - **Features**: A simple GUI tool for finding and replacing text within a file.
-- **Competitive Programming**
-  - **Platform**: AtCoder
-  - **Language**: C++
-  - **Focus**: Learning algorithms and data structures.
+**Aspect-Based Sentiment Analysis (ABSA) of Japanese Hotel Reviews**
 
-<!--
-**DaitoMizokami/DaitoMizokami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am developing a system to structurally extract aspects (e.g., "service," "location") and their corresponding sentiments from user reviews.
 
-Here are some ideas to get you started:
+- **Objective**: To bridge the gap between customer feedback and business strategy by visualizing detailed sentiment trends.
+- **Dataset**: Utilizing a large-scale dataset of **Rakuten Travel** reviews.
+- **Approach**: Currently exploring dictionary-based extraction and aiming to implement Machine Learning/Deep Learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+
+#### Languages & Core
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+</p>
+
+#### Data Science & NLP
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931A?style=flat-square&logo=scikitlearn&logoColor=white">
+</p>
+
+#### Tools & Environment
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
