@@ -1,7 +1,7 @@
 # Daito Mizokami
 
-- **M.S. in Information Science**, JAIST (Japan Advanced Institute of Science and Technology)
-- **B.S. in Information Management**, Yuan Ze University
+- **M.S. in Information Science** (Expected Sep. 2028), JAIST
+- **Bachelor's degree in Information Management**, Yuan Ze University
 - **Research Interest**: Natural Language Processing (NLP)
 
 ---
