@@ -1,8 +1,8 @@
 # Daito Mizokami
 
-- **Current**: JAIST (Japan Advanced Institute of Science and Technology)
-- **Previous**: Yuan Ze University
-- **Interest**: Natural Language Processing (NLP)
+- **M.S. in Information Science**, JAIST (Japan Advanced Institute of Science and Technology)
+- **B.S. in Information Management**, Yuan Ze University
+- **Research Interest**: Natural Language Processing (NLP)
 
 ---
 
